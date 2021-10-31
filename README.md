@@ -6,7 +6,7 @@
 Olá, tudo bem? Nós somos a cutiva, estamos aqui para ajudar você na sua jornada em busca de alimentos produzidos pela agricultura sustentável. Nosso símbolo é a cutia, uma jardineira fiel à biordiversidade e o cultivo às sementes
 
 
-# Cultiva - Back-end
+# Cutiva - Back-end
 
 ## Pre-requisito
 - Node.js
