@@ -2,7 +2,7 @@
 
 ![Logo](logoCutiva.png)
                          
-# Sobre:
+# Sobre
 O Cutiva é um site que reúne informações importantes sobre agricultura familiar de sua região. Ele busca espaço em um mercado de compras cada vez mais digital, para enfrentar as dificuldades tecnológicas dos produtores. O site usa como estratégia de isca de marketing um blog com notícias sobre agricultura familiar e alimentação sustentável, e busca educar o leitor sobre a importância de comprar desses produtores regionais. É como uma agenda telefone, porém com mais recursos e respeitando os limites tecnológicos dos produtores, já que buscaremos as informações nas secretariais municipais. 
 O projeto começa apenas em uma cidade, com pretensão de expansão. 
 Os custos de manutenção do site dependerão do financiamento de organizações sociais.
