@@ -104,7 +104,7 @@ delete: api/cutiva/
   <tr>
     <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Juliana</b></sub></a><br /><a href="" title="Code">💻</a></td>
 	  <td align="center"><a href="https://www.instagram.com/mariadeserrao/"><img src="https://github.com/rayanepimentel/cutiva/blob/main/img/ma.jpeg" width="100px;" alt=""/><br /><sub><b>Ma de Serrão</b></sub></a><br/>:woman_astronaut:</td>
-	  <td align="center"><a href="https://github.com/rayanepimentel"><img src="https://avatars.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br />:woman_technologist:</td>
+	  <td align="center"><a href="https://www.linkedin.com/in/rayanepimentel/"><img src="https://avatars.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br />:woman_technologist:</td>
     <td align="center"><a href="https://www.instagram.com/trrs/"><img src="https://github.com/rayanepimentel/cutiva/blob/main/img/yara.jpeg" width="100px;" alt=""/><br /><sub><b>Yara</b></sub></a><br />:hatching_chick:</td>
   </tr>
 	
