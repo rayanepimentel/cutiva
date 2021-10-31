@@ -34,3 +34,19 @@ $ npm run dev
 ```
 get: /api/cutiva
 ```
+
+- Exemplo
+
+```
+{
+    "title": "Horta do mar",
+    "description": "A horta do mar é....",
+    "name": "Marisol",
+    "photoPerfil": "url",
+    "typeAgriculture: "Agricultura Agroecologia
+
+"
+    
+}
+ 
+```

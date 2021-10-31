@@ -1,11 +1,15 @@
 
 var mongoose = require('mongoose');
 
-module.exports = function() {
-	var schema = mongoose.Schema({
+module.exports = function () {
+  var schema = mongoose.Schema({
     title: {
       type: String,
       required: true
+    },
+    
+    typeAgriculture: {
+      type: String
     },
 
     description: {
@@ -52,7 +56,7 @@ module.exports = function() {
     imGProd: {
       type: String
     }
-	});
+  });
 
-	return mongoose.model('Tutorial', schema);
+  return mongoose.model('Tutorial', schema);
 };
