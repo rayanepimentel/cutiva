@@ -8,7 +8,7 @@ Olá, tudo bem? Nós somos a cutiva, estamos aqui para ajudar você na sua jorna
 
 # Cutiva - Back-end
 
-## Pre-requisito
+## Pre-requisitos
 - Node.js
 - MongoDB
 
@@ -17,7 +17,6 @@ Olá, tudo bem? Nós somos a cutiva, estamos aqui para ajudar você na sua jorna
 
 ```javascript
 //baixar dependências
-
 $ npm install
 
 //rodar o projeto
@@ -25,7 +24,7 @@ $ npm run dev
 
 ```
 ## Variáveis de ambiente
-- Na raiz do projeto crie arquivo .env conforme o arquivo .env.default, passando a url do seu banco local
+- Na raiz do projeto crie um arquivo _.env_ conforme o arquivo _.env.default_, passando a url do seu banco local.
 ## Router
 - Você pode testar pelo insomia ou postman.
 
@@ -61,7 +60,7 @@ _router_ sendo consumida pelo front-end:
 ![](img/getall.png)
 
 ### Get - Por id
-
+Busca um único agricultor/agricultora
 ```
 Get: api/cutiva/:id
 //api/cutiva/617e42100fb4f4f9f474368e
@@ -82,7 +81,7 @@ _router_ sendo consumida pelo front-end:
 
 ![](img/putId.png)
 
-### delete - Deletando agricultor/agricultora 
+### delete - Deletando um agricultor/agricultora 
 ```
 delete: api/cutiva/:id
 //api/cutiva/617e42100fb4f4f9f474368e
