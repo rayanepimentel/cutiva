@@ -15,11 +15,11 @@ Os custos de manutenção do site dependerão do financiamento de organizações
 # Cutiva - Back-end
 
 ## Pre-requisitos
-- Node.js
-- MongoDB
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/pt-br)
 
 ## Como rodar
-- na raiz do projeto, no terminal:
+- na raiz do projeto rode no termuna:
 
 ```javascript
 //baixar dependências
@@ -31,6 +31,7 @@ $ npm run dev
 ```
 ## Variáveis de ambiente
 - Na raiz do projeto crie um arquivo _.env_ conforme o arquivo _.env.default_, passando a url do seu banco local.
+- 
 ## Router
 - Você pode testar pelo insomia ou postman.
 
