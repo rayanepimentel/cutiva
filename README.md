@@ -31,7 +31,7 @@ $ npm run dev
 ```
 ## Variáveis de ambiente
 - Na raiz do projeto crie um arquivo _.env_ conforme o arquivo _.env.default_, passando a url do seu banco local.
-- 
+
 ## Router
 - Você pode testar pelo insomia ou postman.
 
@@ -98,7 +98,7 @@ delete: api/cutiva/:id
 ```
 delete: api/cutiva/
 ```
-
+<hr>
 
 # Jardiladies
 <table>
