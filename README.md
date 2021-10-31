@@ -19,7 +19,7 @@ Os custos de manutenção do site dependerão do financiamento de organizações
 - [MongoDB](https://www.mongodb.com/pt-br)
 
 ## Como rodar
-- na raiz do projeto rode no termuna:
+- na raiz do projeto rode no terminal:
 
 ```javascript
 //baixar dependências
