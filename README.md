@@ -40,13 +40,11 @@ get: /api/cutiva
 ```
 {
     "title": "Horta do mar",
-    "description": "A horta do mar é....",
+    "description": "A horta do mar é cultivada ...",
     "name": "Marisol",
     "photoPerfil": "url",
-    "typeAgriculture: "Agricultura Agroecologia
-
-"
-    
+    "typeAgriculture: "Agricultura Agroecologia"  
 }
- 
 ```
+
+![get](img/getcreate.png)
