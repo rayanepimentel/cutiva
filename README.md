@@ -51,7 +51,7 @@ _router_ sendo consumida pelo front-end:
 
 ![post](img/postcreate.png)
 
-### Get - Listando todos agricultores
+### Get - Listando todos agricultores ou passando condição
 
 ```
 Get: api/cutiva/
@@ -59,3 +59,37 @@ Get: api/cutiva/
 _router_ sendo consumida pelo front-end:
 
 ![](img/getall.png)
+
+### Get - Por id
+
+```
+Get: api/cutiva/:id
+//api/cutiva/617e42100fb4f4f9f474368e
+```
+
+### Put - Atualizando
+```
+put: api/cutiva/:id
+//api/cutiva/617e42100fb4f4f9f474368e
+```
+Body:
+```
+{
+    contact.email: "marisol@hortadomar.com.br
+}
+```
+_router_ sendo consumida pelo front-end:
+
+![](img/putId.png)
+
+### delete - Deletando agricultor/agricultora 
+```
+delete: api/cutiva/:id
+//api/cutiva/617e42100fb4f4f9f474368e
+```
+### delete - Deletando todos os agricultores 
+
+```
+delete: api/cutiva/
+
+```
