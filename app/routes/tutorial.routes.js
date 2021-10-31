@@ -3,25 +3,25 @@ module.exports = app => {
   
     var router = require("express").Router();
   
-    // Create a new Tutorial
+    // Create a new cultiva
     router.post("/", cultiva.create);
   
-    // Retrieve all Tutorials
+    // Retrieve all cultiva
     router.get("/", cultiva.findAll);
   
     // Retrieve all published Tutorials
     router.get("/published", cultiva.findAllPublished);
   
-    // Retrieve a single Tutorial with id
+    // Retrieve a single cultiva with id
     router.get("/:id", cultiva.findOne);
   
-    // Update a Tutorial with id
+    // Update a cultiva with id
     router.put("/:id", cultiva.update);
   
-    // Delete a Tutorial with id
+    // Delete a cultiva with id
     router.delete("/:id", cultiva.delete);
   
-    // Create a new Tutorial
+    // Create a new cultiva
     router.delete("/", cultiva.deleteAll);
   
     app.use('/api/cutiva', router);
