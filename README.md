@@ -2,9 +2,15 @@
 
 ![Logo](logoCutiva.png)
                          
-## Sobre:
-Olá, tudo bem? Nós somos a cutiva, estamos aqui para ajudar você na sua jornada em busca de alimentos produzidos pela agricultura sustentável. Nosso símbolo é a cutia, uma jardineira fiel à biordiversidade e o cultivo às sementes
+# Sobre:
+O Cutiva é um site que reúne informações importantes sobre agricultura familiar de sua região. Ele busca espaço em um mercado de compras cada vez mais digital, para enfrentar as dificuldades tecnológicas dos produtores. O site usa como estratégia de isca de marketing um blog com notícias sobre agricultura familiar e alimentação sustentável, e busca educar o leitor sobre a importância de comprar desses produtores regionais. É como uma agenda telefone, porém com mais recursos e respeitando os limites tecnológicos dos produtores, já que buscaremos as informações nas secretariais municipais. 
+O projeto começa apenas em uma cidade, com pretensão de expansão. 
+Os custos de manutenção do site dependerão do financiamento de organizações sociais.
 
+# Gerenciamento do Projeto
+- [Miro](https://miro.com/app/board/o9J_l1XzB6Q=/)
+- [Diagrama](https://drive.google.com/file/d/15qPkVnxJyyJqRZBHhfXhvnS6KZ8sF6Te/view)
+- [Figma](https://www.figma.com/proto/C3Dc1A2s4OHEUiCiNYpjwC/zou-farm-landing-page?node-id=42%3A3434&starting-point-node-id=42%3A3434)
 
 # Cutiva - Back-end
 
@@ -90,5 +96,16 @@ delete: api/cutiva/:id
 
 ```
 delete: api/cutiva/
-
 ```
+
+
+# Jardim Ladies
+<table>
+  <tr>
+    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Juliana</b></sub></a><br /><a href="" title="Code">💻</a></td>
+	  <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Ma de Serrão</b></sub></a><br /><a href="" title="Code">💻</a></td>
+	  <td align="center"><a href="https://github.com/rayanepimentel"><img src="https://avatars.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br /><a href="" title="Code">💻</a></td>
+    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Yara</b></sub></a><br /><a href="" title="Code">💻</a></td>
+  </tr>
+	
+</table>
