@@ -27,5 +27,10 @@ $ npm run dev
 ## Variáveis de ambiente
 - Na raiz do projeto crie arquivo .env conforme o arquivo .env.default, passando a url do seu banco local
 ## Router
+- Você pode testar pelo insomia ou postman.
 
-### 
+### Criando perfil de um(a) agricultor/agricultora
+
+```
+get: /api/cutiva
+```
