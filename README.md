@@ -49,7 +49,7 @@ _Body (json)_
     "title": "Horta do mar",
     "description": "A horta do Mar é cultivada ...",
     "name": "Marisol",
-    "photoPerfil": "url",
+    "photoPerfil": "url/aqui",
     "typeAgriculture: "Agricultura Agroecologia"  
 }
 ```
@@ -81,7 +81,7 @@ put: api/cutiva/:id
 Body:
 ```
 {
-    contact.email: "marisol@hortadomar.com.br
+    "contact.email": "marisol@hortadomar.com.br"
 }
 ```
 _router_ sendo consumida pelo front-end:
