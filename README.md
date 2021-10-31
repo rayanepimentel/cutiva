@@ -35,7 +35,8 @@ $ npm run dev
 get: /api/cutiva
 ```
 
-- Exemplo
+- Exemplo <br>
+_Body (json)_
 
 ```
 {
