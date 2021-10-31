@@ -1,4 +1,4 @@
 
 module.exports = {
-    url: process.env.MONGO_CONNECTION
+    url: "mongodb://localhost:27017/teste"
 };
