@@ -99,13 +99,13 @@ delete: api/cutiva/
 ```
 
 
-# Jardim Ladies
+# Jardiladies
 <table>
   <tr>
     <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Juliana</b></sub></a><br /><a href="" title="Code">💻</a></td>
-	  <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Ma de Serrão</b></sub></a><br /><a href="" title="Code">💻</a></td>
-	  <td align="center"><a href="https://github.com/rayanepimentel"><img src="https://avatars.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br /><a href="" title="Code">💻</a></td>
-    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Yara</b></sub></a><br /><a href="" title="Code">💻</a></td>
+	  <td align="center"><a href="https://www.instagram.com/mariadeserrao/"><img src="https://github.com/rayanepimentel/cutiva/blob/main/img/ma.jpeg" width="100px;" alt=""/><br /><sub><b>Ma de Serrão</b></sub></a><br/>:woman_astronaut:</td>
+	  <td align="center"><a href="https://github.com/rayanepimentel"><img src="https://avatars.githubusercontent.com/u/37915359?v=4" width="100px;" alt=""/><br /><sub><b>Rayane Pimentel</b></sub></a><br />💻</td>
+    <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b>Yara</b></sub></a><br />💻</td>
   </tr>
 	
 </table>
