@@ -41,11 +41,12 @@ _Body (json)_
 ```
 {
     "title": "Horta do mar",
-    "description": "A horta do mar é cultivada ...",
+    "description": "A horta do Mar é cultivada ...",
     "name": "Marisol",
     "photoPerfil": "url",
     "typeAgriculture: "Agricultura Agroecologia"  
 }
 ```
+_router_ sendo consumida pelo front-end:
 
 ![get](img/getcreate.png)
