@@ -29,10 +29,10 @@ $ npm run dev
 ## Router
 - Você pode testar pelo insomia ou postman.
 
-### Criando perfil de um(a) agricultor/agricultora
+### Post: Criando perfil de um(a) agricultor/agricultora
 
 ```
-get: /api/cutiva
+Post: /api/cutiva
 ```
 
 - Exemplo <br>
@@ -49,4 +49,13 @@ _Body (json)_
 ```
 _router_ sendo consumida pelo front-end:
 
-![get](img/getcreate.png)
+![post](img/postcreate.png)
+
+### Get - Listando todos agricultores
+
+```
+Get: api/cutiva/
+```
+_router_ sendo consumida pelo front-end:
+
+![](img/getall.png)

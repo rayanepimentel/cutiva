@@ -24,5 +24,5 @@ module.exports = app => {
     // Create a new Tutorial
     router.delete("/", cultiva.deleteAll);
   
-    app.use('/api/cultiva', router);
+    app.use('/api/cutiva', router);
   };
