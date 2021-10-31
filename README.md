@@ -100,7 +100,7 @@ delete: api/cutiva/
 ```
 <hr>
 
-# Jardiladies
+# JardiLadies
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/julianafalves/"><img src="https://github.com/rayanepimentel/cutiva/blob/main/img/ju.jpeg" width="100px;" alt=""/><br /><sub><b>Juliana</b></sub></a><br />:airplane:</td>
