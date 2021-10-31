@@ -1,4 +1,4 @@
-# cutiva
+# Cutiva :seedling:
 
 ![Logo](logoCutiva.png)
                          
